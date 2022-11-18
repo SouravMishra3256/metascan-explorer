@@ -1,6 +1,6 @@
 {
   "metamui": {
     "substrateRpcUrlArray": ["wss://n2devnet.metabit.exchange"],
-    "explorerWsUrlArray": ["wss://metascan.metabit.exchange/api/graphql-ws"]
+    "explorerWsUrlArray": ["wss://metascanws.metabit.exchange/graphql-ws"]
   }
 }
